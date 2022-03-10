@@ -1,0 +1,29 @@
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+.navlink {
+    list-style: none;
+    margin-right: 15px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 100vh;
+}
+    
+
+
+@media screen and (max-width: 600px) {
+    .navbar {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+}
