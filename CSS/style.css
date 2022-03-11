@@ -13,6 +13,16 @@ body {
     margin-right: 15px;
 }
 
+.slidemenu {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.slidebutton {
+    list-style: none;
+}
+
 .button {
     display: flex;
     justify-content: center;
