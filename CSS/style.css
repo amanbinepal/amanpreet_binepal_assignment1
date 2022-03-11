@@ -17,6 +17,7 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    height: 5px;
 }
 
 .slidebutton {
@@ -27,7 +28,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: calc(100vh - 80px);
+    height: calc(100vh - 85px);
     flex-direction: column;
 }
 
@@ -35,6 +36,18 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 10px;
+}
+
+.boxbuttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.textbutton {
+    margin-right: 10px;
 }
 
 
