@@ -36,6 +36,12 @@ body {
     
 }
 
+.buttonslide{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
 .sidelinks {
     display: flex;
     justify-content: center;
