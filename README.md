@@ -5,4 +5,4 @@ Assignment 1 for 1620 class
 
 ## link to my color palette
 
-[my color palette](https://colors.dopely.top/palette-generator/5W70c2Q0DYj)
+[my color palette](https://colors.dopely.top/palette-generator/eEktEtKmG08)
