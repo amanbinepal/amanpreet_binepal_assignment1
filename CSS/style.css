@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    background-color: #191724;
+    color: #E0DEF4;
 }
 .navbar {
     display: flex;
@@ -32,7 +34,7 @@ body {
     justify-content: flex-start;
     flex-direction: column;
     width: 250px;
-    background: teal;
+    background: #393552;
     
 }
 
@@ -90,6 +92,26 @@ body {
     justify-content: center;
     bottom: 0;
     position: absolute;
+}
+
+a:link{
+    color: #E0DEF4;
+}
+
+a:visited {
+    color:#F6C177
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    background-color: #F6C177;
+    color:#191724;
+    padding: 6px 14px;
+    font-size: 15px;
 }
     
 
