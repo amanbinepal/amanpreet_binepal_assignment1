@@ -2,6 +2,8 @@ body {
     margin: 0;
     background-color: #191724;
     color: #E0DEF4;
+    font-family: 'Roboto', sans-serif;
+    
 }
 .navbar {
     display: flex;
@@ -112,6 +114,7 @@ button {
     color:#191724;
     padding: 6px 14px;
     font-size: 15px;
+    font-weight: bold;
 }
     
 
