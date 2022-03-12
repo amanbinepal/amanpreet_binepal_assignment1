@@ -46,6 +46,14 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    align-items: flex-start;
+}
+
+.notelink {
+    list-style: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
 }
 
 .button {
@@ -96,6 +104,30 @@ body {
     .menu {
         display: flex;
         flex-direction: column;
+    }
+
+    .button {
+        height: calc(100vh - 225px);
+    }
+
+    .sidebar {
+        display: flex;
+        justify-content: left;
+        flex-direction: row-reverse;
+    }
+
+    .sidelinks {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-right: 50px;
+    }
+
+    .notelink {
+        list-style: none;
+        padding-top: 10px;
+        padding-bottom: 15px;  
     }
 
 
